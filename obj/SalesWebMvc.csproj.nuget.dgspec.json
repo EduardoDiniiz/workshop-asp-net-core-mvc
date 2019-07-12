@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "EntityFramework6.Npgsql": {
+              "target": "Package",
+              "version": "[3.2.1.1, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -61,6 +65,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.2.3, )"
+            },
+            "Npgsql.Bulk": {
+              "target": "Package",
+              "version": "[0.7.2, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
