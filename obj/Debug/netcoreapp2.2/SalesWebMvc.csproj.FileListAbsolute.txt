@@ -35,3 +35,4 @@ C:\src\Projetos\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit
 C:\src\Projetos\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
 C:\src\Projetos\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Index.g.cshtml.cs
 C:\src\Projetos\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Create.g.cshtml.cs
+C:\src\Projetos\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Delete.g.cshtml.cs
